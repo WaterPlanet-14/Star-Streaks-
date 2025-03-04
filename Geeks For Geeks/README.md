@@ -1,62 +1,51 @@
-# 🚀 GeeksforGeeks - Problem of the Day (POTD) - March 2025  
+# Star Streaks ✨💻🔥
+Welcome to **Star Streaks ✨💻🔥**! This repository contains the solutions to "Problem of the Day" (POTD) from various coding platforms. The goal is to stay consistent with problem-solving, improve algorithmic thinking, and track progress over time. 💡
 
-Welcome to **GFG POTD Chronicles 📜✨** – a collection of my daily **GeeksforGeeks Problem of the Day** solutions for **March 2025**! This repository serves as a **structured archive** of my problem-solving journey, showcasing various approaches, optimizations, and insights.  
+## 📌 Platforms Covered
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Codeforces](https://codeforces.com/)
+- [CodeChef](https://www.codechef.com/)
+- [AtCoder](https://atcoder.jp/)
+- [HackerRank](https://www.hackerrank.com/)
+- And more!
 
----
-
-## 🔍 **Why This Repository?**  
-
-💡 **Consistency is Key**: Tackling a problem every day helps in **building problem-solving intuition**.  
-📚 **Learning & Growth**: From **arrays** to **dynamic programming**, every problem strengthens core concepts.  
-⚡ **Optimized Solutions**: Focused on writing **efficient and well-structured** code with explanations.  
-🔗 **Easy Access**: A well-organized collection of solutions to quickly **revise and revisit** concepts.  
-
----
-
-## 📂 **Repository Structure**  
-
-This repository is structured as follows:  
-
+## 📂 Repository Structure
 ```
-📁 GFG-POTD-March-2025
-   ├── 📜 Day_01_Some_Problem.py
-   ├── 📜 Day_02_Another_Problem.py
-   ├── 📜 ...
-   ├── 📜 Day_31_Final_Problem.py
-   ├── 📑 README.md
+📦 Daily-Coding-POTD
+ ┣ 📂 Platform_Name
+ ┃ ┣ 📂 YYYY-MM (Year-Month)
+ ┃ ┃ ┣ 📜 YYYY-MM-DD_ProblemName.extension
+ ┃ ┃ ┗ 📜 README.md (Optional - Problem statement or notes)
+ ┗ 📜 README.md
+```
+Example:
+```
+📦 Daily-Coding-POTD
+ ┣ 📂 LeetCode
+ ┃ ┣ 📂 2025-03
+ ┃ ┃ ┣ 📜 2025-03-01_TwoSum.py
+ ┃ ┃ ┣ 📜 2025-03-02_ReverseLinkedList.cpp
+ ┗ 📜 README.md
 ```
 
-Each file contains:  
-✅ **Problem Statement & Link**  
-✅ **Intuitive Approach Explanation**  
-✅ **Optimized Code Implementation** (in Python 🐍)  
-✅ **Time & Space Complexity Analysis**  
+## 🛠 Languages Used
+I primarily use:
+- Python 🐍
+- JavaScript ⚡
+- Java ☕
+
+But I might also explore other languages occasionally.
+
+## 🔥 How to Contribute
+While this is a personal log, feel free to open an issue or suggest a better approach for any problem. Let's learn together! 🚀
+
+## 📖 Resources & Learning Materials
+- [Algorithms & Data Structures Roadmap](https://roadmap.sh/)
+- [NeetCode](https://neetcode.io/)
+- [Striver’s A2Z DSA Sheet](https://takeuforward.org/)
+
+
 
 ---
-
-## 🎯 **How to Use This Repository?**  
-
-🔹 Browse the repository and pick a problem.  
-🔹 Read through the explanation and logic behind the solution.  
-🔹 Try implementing it yourself before checking the code.  
-🔹 Compare different approaches and their trade-offs.  
-🔹 **Star 🌟 the repo** if you find it useful!  
-
----
-
-## 🌟 **Connect & Collaborate**  
-
-If you're passionate about **DSA, problem-solving, and coding challenges**, let's connect! 🚀  
-
-📌 **GeeksforGeeks Profile**: [**My GFG Profile**](https://auth.geeksforgeeks.org/user/your_username/)  
-📌 **LinkedIn**: [**Let's Connect!**](https://www.linkedin.com/in/nishant-panigrahy/)  
-
-🤝 **Contributions & Discussions Welcome!** If you have alternative solutions, feel free to **open an issue or PR**.  
-
----
-
-🧠 **Keep Solving, Keep Growing!** 💡🔥  
-
-🚀 **Happy Coding!** 🚀
-
-
+🚀 Happy Coding! Keep solving, keep growing. 💪
